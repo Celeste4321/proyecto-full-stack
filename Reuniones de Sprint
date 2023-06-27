@@ -1,0 +1,9 @@
+Nuestro Sprint planificado transcurre durante todo el mes de junio, durante el cual fuimos desarrollando las funciones necesarias para nuestro proyecto.
+  Primera semana(1-8): En esta semana fue cuando el proyecto empezó a ser planteado, empezamos a hacer un brainstorm para decidir de qué iba a tratar nuestra página y
+fijar los objetivos para las siguientes semanas en las que empezaríamos a trabajar.
+  Segunda semana(9-16): Acá nos centramos en hacer un modelo tipo "esqueleto" de cómo iba a ser la interfaz, gama de colores, buscar información pertinente, ver opciones que
+fueran necesarias implementar, etc.
+  Tercera semana(16-23): Nos concentramos en perfeccionar cualquier detalle y error paraa tenerla limpia y así facilitar los procesos de las semanas siguientes. También en crear
+la base de datos y conectarla al html para poder iniciar sesión.
+  Cuarta semana(23-30): Considerampos la implementación de Angular y los detalles con JavaScript como algo más ligado a los detalles finales, que fue lo que hicimos en esta
+última semana.
