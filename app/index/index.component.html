@@ -1,0 +1,17 @@
+
+<body>
+    <div class="color">
+     <div class="texto-centrado">
+     <h1>Inicio de Sesión</h1>
+     </div>
+     <div class="texto-centrado2">
+     <input [(ngModel)]="user" type="text" style="height: 30px; width: 200px;" name="Nombre" id="Nombres" placeholder="      Ingrese nombre de usuario">
+     <br><br>
+     <input [(ngModel)]="pass" type="password" style="height: 30px; width: 200px;" name="Contraseña" id="Contraseña" placeholder="          Ingrese su contraseña">
+     <br><br>
+     <a (click)="go('/pagina-principal')"><input class="button" type="submit" value="Ingresar" style="width: 200px; height: 30px;" ></a>
+     <br>
+     <a (click)="go('/cuenta')" class="texto4">¿No tienes una cuenta?</a>
+    </div>
+    </div>
+</body>
